@@ -1,0 +1,4 @@
+#Tue Nov 15 22:59:24 BRT 2022
+base.0=C\:\\Users\\vieir\\OneDrive\\Documentos\\Flutter\\atualizacao\\app\\aplicativo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
